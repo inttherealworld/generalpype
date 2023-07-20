@@ -230,6 +230,6 @@ small{
     }
 
     .hero {
-        background-image: url('../img/weed2.jpg');
+        background-image: url('./img/weed2.jpg');
     }
 }
