@@ -203,6 +203,13 @@ small{
         box-sizing: border-box;
     }
 
+    h1{
+        color: #000;
+    }
+
+    small{
+        color: #000;
+    }
     
 
     .social-links {
