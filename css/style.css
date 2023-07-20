@@ -181,7 +181,7 @@ small{
     width: 35px;
 }
 
-@media screen and (max-width:900px) and (min-width: 500px) {
+@media screen and (max-width:900px) and (max-width: 500px) {
     h1{
         font-size: 36px;
         line-height: 50px;
